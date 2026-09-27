@@ -1,7 +1,7 @@
 # Power BI Data Analytics | ShopNest Store Performance Report 📊
 
 ## 🖼️ Dashboard Performance Preview
-![ShopNest Dashboard Preview](dashboard.png)
+![ShopNest Dashboard Preview](PowerBI Dashboard.png)
 
 ---
 
